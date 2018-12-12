@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # - * - coding: utf-8 - * -
+# 辱骂脚本，输入姓名可以进行辱骂
 def magoujieprogram():
  name = raw_input("请输入你需要辱骂的人: ")
  sigoujie = raw_input("是否需要进行辱骂？: (y/n)")
